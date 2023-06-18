@@ -237,7 +237,7 @@
   },
   "optionalDependencies": {
     "@cypress/webpack-preprocessor": "^5.1.2",
-    "cypress": "^4.0.2",
+    "cypress": "^6.0.0",
     "puppeteer": "^2.0.0"
   },
   "engines": {
