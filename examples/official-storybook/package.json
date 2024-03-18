@@ -61,7 +61,7 @@
     "webpack": "^4.33.0"
   },
   "peerDependencies": {
-    "puppeteer": "^2.0.0 || ^3.0.0"
+    "puppeteer": "^3.0.0 ^3.0.0"
   },
   "storybook": {
     "chromatic": {
